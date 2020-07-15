@@ -1,0 +1,130 @@
+2020-07-08 17:59:25,247 - root - INFO - running environment: None
+2020-07-08 18:00:21,583 - root - INFO - running environment: None
+2020-07-08 18:00:45,037 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 18:00:46,155 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 18:06:25,505 - root - INFO - running environment: None
+2020-07-08 18:06:37,301 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 18:06:41,641 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 18:06:46,847 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 18:06:51,209 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 18:18:10,618 - root - INFO - running environment: None
+2020-07-08 18:18:47,696 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 18:18:53,006 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 18:19:24,918 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 18:19:32,559 - root - INFO - running environment: None
+2020-07-08 18:19:39,079 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 18:23:22,792 - root - INFO - running environment: None
+2020-07-08 18:23:36,491 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 18:25:51,307 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 18:27:06,113 - root - INFO - running environment: None
+2020-07-08 18:28:37,275 - root - INFO - running environment: None
+2020-07-08 18:28:52,399 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 18:31:34,091 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-08 19:11:42,334 - root - INFO - running environment: ENV
+2020-07-08 19:12:09,827 - root - INFO - running environment: ENV
+2020-07-10 09:38:36,900 - root - INFO - running environment: ENV
+2020-07-10 09:55:04,795 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-10 18:04:11,083 - root - INFO - running environment: ENV
+2020-07-10 18:05:13,495 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-10 18:11:27,321 - root - INFO - running environment: ENV
+2020-07-10 18:15:54,386 - root - INFO - running environment: ENV
+2020-07-10 18:22:58,106 - root - INFO - running environment: ENV
+2020-07-10 18:25:49,466 - root - INFO - running environment: ENV
+2020-07-10 18:31:07,496 - root - INFO - running environment: ENV
+2020-07-10 18:44:46,337 - root - INFO - running environment: ENV
+2020-07-10 18:48:01,156 - root - INFO - running environment: ENV
+2020-07-10 18:54:14,730 - root - INFO - running environment: ENV
+2020-07-10 18:55:44,054 - root - INFO - running environment: ENV
+2020-07-10 22:15:42,130 - root - INFO - running environment: ENV
+2020-07-10 22:16:00,061 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2020-07-10 22:16:34,557 - root - INFO - running environment: ENV
+2020-07-10 22:24:25,869 - root - INFO - running environment: ENV
+2020-07-10 22:31:14,972 - root - INFO - running environment: ENV
+2020-07-10 22:33:37,640 - root - INFO - running environment: ENV
+2020-07-10 22:34:48,632 - root - INFO - running environment: ENV
+2020-07-10 22:35:17,855 - root - INFO - running environment: ENV
+2020-07-10 22:36:13,165 - root - INFO - running environment: ENV
+2020-07-10 22:38:18,694 - root - INFO - running environment: ENV
+2020-07-10 22:41:47,849 - root - INFO - running environment: ENV
+2020-07-10 22:43:17,099 - root - INFO - running environment: ENV
+2020-07-10 22:44:04,724 - root - INFO - running environment: ENV
+2020-07-10 22:46:03,350 - root - INFO - running environment: ENV
+2020-07-10 22:50:02,201 - root - INFO - running environment: ENV
+2020-07-10 22:51:27,254 - root - INFO - running environment: ENV
+2020-07-10 22:57:29,858 - root - INFO - running environment: ENV
+2020-07-10 23:00:00,954 - root - INFO - running environment: ENV
+2020-07-10 23:05:19,988 - root - INFO - running environment: ENV
+2020-07-10 23:09:39,127 - root - INFO - running environment: ENV
+2020-07-10 23:22:35,051 - root - INFO - running environment: ENV
+2020-07-10 23:25:19,598 - root - INFO - running environment: ENV
+2020-07-10 23:27:03,835 - root - INFO - running environment: ENV
+2020-07-10 23:29:15,870 - root - INFO - running environment: ENV
+2020-07-10 23:34:41,653 - root - INFO - running environment: ENV
+2020-07-10 23:36:48,358 - root - INFO - running environment: ENV
+2020-07-10 23:43:15,235 - root - INFO - running environment: ENV
+2020-07-10 23:47:21,633 - root - INFO - running environment: ENV
+2020-07-10 23:56:28,904 - root - INFO - running environment: ENV
+2020-07-10 23:58:25,809 - root - INFO - running environment: ENV
+2020-07-11 00:02:08,443 - root - INFO - running environment: ENV
+2020-07-11 00:06:58,027 - root - INFO - running environment: ENV
+2020-07-11 00:08:36,695 - root - INFO - running environment: ENV
+2020-07-11 00:09:23,337 - root - INFO - running environment: ENV
+2020-07-11 00:09:58,291 - root - INFO - running environment: ENV
+2020-07-11 00:10:47,516 - root - INFO - running environment: ENV
+2020-07-11 00:16:39,859 - root - INFO - running environment: ENV
+2020-07-11 00:21:19,753 - root - INFO - running environment: ENV
+2020-07-11 00:21:53,115 - root - INFO - running environment: ENV
+2020-07-11 00:22:53,531 - root - INFO - running environment: ENV
+2020-07-11 00:24:03,317 - root - INFO - running environment: ENV
+2020-07-11 00:25:43,571 - root - INFO - running environment: ENV
+2020-07-11 00:31:07,240 - root - INFO - running environment: ENV
+2020-07-11 00:32:23,010 - root - INFO - running environment: ENV
+2020-07-11 00:32:46,642 - root - INFO - running environment: ENV
+2020-07-11 00:34:24,574 - root - INFO - running environment: ENV
+2020-07-11 00:34:52,841 - root - INFO - running environment: ENV
+2020-07-11 00:35:30,600 - root - INFO - running environment: ENV
+2020-07-11 00:36:37,622 - root - INFO - running environment: ENV
+2020-07-11 00:37:56,330 - root - INFO - running environment: ENV
+2020-07-11 00:40:38,103 - root - INFO - running environment: ENV
+2020-07-11 00:41:54,491 - root - INFO - running environment: ENV
+2020-07-11 00:42:49,049 - root - INFO - running environment: ENV
+2020-07-11 00:43:14,899 - root - INFO - running environment: ENV
+2020-07-11 00:44:44,204 - root - INFO - running environment: ENV
+2020-07-11 00:54:02,479 - root - INFO - running environment: ENV
+2020-07-11 00:54:58,576 - root - INFO - running environment: ENV
+2020-07-11 00:58:41,097 - root - INFO - running environment: ENV
+2020-07-11 01:00:23,535 - root - INFO - running environment: ENV
+2020-07-11 01:02:05,886 - root - INFO - running environment: ENV
+2020-07-11 01:06:46,526 - root - INFO - running environment: ENV
+2020-07-11 01:07:16,728 - root - INFO - running environment: ENV
+2020-07-11 01:07:42,945 - root - INFO - running environment: ENV
+2020-07-11 01:08:50,262 - root - INFO - running environment: ENV
+2020-07-11 01:09:13,104 - root - INFO - running environment: ENV
+2020-07-11 01:10:33,003 - root - INFO - running environment: ENV
+2020-07-11 01:23:35,149 - root - INFO - running environment: ENV
+2020-07-11 01:24:28,299 - root - INFO - running environment: ENV
+2020-07-11 01:24:45,342 - root - INFO - running environment: ENV
+2020-07-11 01:27:31,669 - root - INFO - running environment: ENV
+2020-07-11 01:29:00,044 - root - INFO - running environment: ENV
+2020-07-11 01:29:31,267 - root - INFO - running environment: ENV
+2020-07-11 01:29:57,909 - root - INFO - running environment: ENV
+2020-07-11 01:41:28,345 - root - INFO - running environment: ENV
+2020-07-11 01:46:07,311 - root - INFO - running environment: ENV
+2020-07-11 01:47:09,924 - root - INFO - running environment: ENV
+2020-07-11 01:49:38,216 - root - INFO - running environment: ENV
+2020-07-11 02:02:12,867 - root - INFO - running environment: ENV
+2020-07-11 02:04:43,866 - root - INFO - running environment: ENV
+2020-07-11 02:05:38,255 - root - INFO - running environment: ENV
+2020-07-11 02:05:51,843 - root - INFO - running environment: ENV
+2020-07-11 02:11:33,236 - root - INFO - running environment: ENV
+2020-07-11 02:17:19,631 - root - INFO - running environment: ENV
+2020-07-11 02:17:59,986 - root - INFO - running environment: ENV
+2020-07-11 02:18:18,838 - root - INFO - running environment: ENV
+2020-07-11 02:19:15,711 - root - INFO - running environment: ENV
+2020-07-11 02:19:44,948 - root - INFO - running environment: ENV
+2020-07-11 02:20:31,345 - root - INFO - running environment: ENV
+2020-07-11 02:21:05,948 - root - INFO - running environment: ENV
+2020-07-11 02:23:11,496 - root - INFO - running environment: ENV
+2020-07-11 02:43:55,233 - root - INFO - running environment: ENV
+2020-07-11 15:46:33,381 - root - INFO - running environment: ENV
+2020-07-11 15:46:56,226 - root - ERROR - 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
